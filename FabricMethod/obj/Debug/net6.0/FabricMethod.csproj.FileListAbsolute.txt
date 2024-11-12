@@ -1,0 +1,14 @@
+D:\PGY\oop\FabricMethod\bin\Debug\net6.0\FabricMethod.exe
+D:\PGY\oop\FabricMethod\bin\Debug\net6.0\FabricMethod.deps.json
+D:\PGY\oop\FabricMethod\bin\Debug\net6.0\FabricMethod.runtimeconfig.json
+D:\PGY\oop\FabricMethod\bin\Debug\net6.0\FabricMethod.dll
+D:\PGY\oop\FabricMethod\bin\Debug\net6.0\FabricMethod.pdb
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.AssemblyInfoInputs.cache
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.AssemblyInfo.cs
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.csproj.CoreCompileInputs.cache
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.dll
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\refint\FabricMethod.dll
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.pdb
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\FabricMethod.genruntimeconfig.cache
+D:\PGY\oop\FabricMethod\obj\Debug\net6.0\ref\FabricMethod.dll
