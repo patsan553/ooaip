@@ -1,0 +1,14 @@
+D:\PGY\oop\Prototype\bin\Debug\net6.0\Prototype.exe
+D:\PGY\oop\Prototype\bin\Debug\net6.0\Prototype.deps.json
+D:\PGY\oop\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+D:\PGY\oop\Prototype\bin\Debug\net6.0\Prototype.dll
+D:\PGY\oop\Prototype\bin\Debug\net6.0\Prototype.pdb
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.dll
+D:\PGY\oop\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.pdb
+D:\PGY\oop\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+D:\PGY\oop\Prototype\obj\Debug\net6.0\ref\Prototype.dll
