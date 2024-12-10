@@ -1,0 +1,4 @@
+D:\PGY\oop\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGY\oop\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\PGY\oop\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\PGY\oop\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
